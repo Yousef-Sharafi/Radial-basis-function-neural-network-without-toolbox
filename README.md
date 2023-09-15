@@ -2,3 +2,4 @@
 radial basis function neural network
 
 
+![Uploading result2.jpg…]()

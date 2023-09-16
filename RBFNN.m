@@ -60,9 +60,9 @@ d3=[x3 y3 3*ones(n,1)];
 Sigma=[1 1];
 Num=n;
 
-f1     = mvnrnd([0 5], Sigma, Num); 
-f2     = mvnrnd([5 0], Sigma, Num);
-f3     = mvnrnd([8 8], Sigma, Num);
+f1 = mvnrnd([0 5], Sigma, Num); 
+f2 = mvnrnd([5 0], Sigma, Num);
+f3 = mvnrnd([8 8], Sigma, Num);
 
 data=[d1
     d2
